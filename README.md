@@ -14,11 +14,11 @@ I also create content about **software development, learning, and technology**.
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/mferreira26" target="blank">
+  <a href="https://github.com/mferreira26">
     <img src="https://img.shields.io/badge/GitHub-MFERREIRA26-181717?style=for-the-badge&logo=github" />
   </a>
   <br>
-  <a href="https://instagram.com/mferreira.dev" target="blank">
+  <a href="https://instagram.com/mferreira.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@MFERREIRA.DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
